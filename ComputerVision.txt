@@ -1,0 +1,4 @@
+Anaconda Prompt ile çevreyi kur(yml ile aynı yerde yaz):conda env create -f cvcourse_windows.yml
+Aktifleştir: conda activate python-cvcourse
+Deaktifleştir: conda deactivate 
+Jupyter(ctrl+space yerine shift+tab): jupyter-lab
